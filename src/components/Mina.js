@@ -10,10 +10,10 @@ function Mina() {
         <br></br>
         <Container>
             <Grid container spacing={1}>
-                <Grid item xs={4}>
+                <Grid item xs={4} data-testid="grid-item">
                     <div><img id='kuva' src={kuva} alt='Omakuva' height={'auto'} width={'100%'} /></div>
                 </Grid>
-                <Grid item xs={4}>
+                <Grid item xs={4} data-testid="grid-item">
                     <div>
                         <p>Hei ja tervetuloa Länsituulen koirahoitopalvelut sivustolle!</p>
                         <p>Olen yrityksen omistaja Edvin "Evi" West ja olen työskennellyt koirien parissa vuodesta 2019. 

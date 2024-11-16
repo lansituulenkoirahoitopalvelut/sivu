@@ -10,10 +10,10 @@ function Hinnasto() {
         <br></br>
         <Container>
             <Grid container spacing={1}>
-                <Grid item xs={4}>
+                <Grid item xs={4} data-testid="grid-item">
                     <div><img id='kuva' src={kuva} alt='Kuva' height={'auto'} width={'100%'} /></div>
                 </Grid>
-                <Grid item xs={4}>
+                <Grid item xs={4} data-testid="grid-item">
                     <div>
                         <table>
                             <tr>
