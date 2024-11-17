@@ -9,12 +9,15 @@ function Mina() {
         <div>
         <br></br>
         <Container>
-            <Grid container spacing={1}>
+            <Grid container spacing={4}>
                 <Grid item xs={4} data-testid="grid-item">
                     <div><img id='kuva' src={kuva} alt='Omakuva' height={'auto'} width={'100%'} /></div>
                 </Grid>
-                <Grid item xs={4} data-testid="grid-item">
+                <Grid item xs={6.5} data-testid="grid-item">
                     <div>
+                        <br></br>
+                        <br></br>
+                        <br></br>
                         <p>Hei ja tervetuloa Länsituulen koirahoitopalvelut sivustolle!</p>
                         <p>Olen yrityksen omistaja Edvin "Evi" West ja olen työskennellyt koirien parissa vuodesta 2019. 
                             Asun Kanta-Hämeessä Lopella ja kotoa löytyy 6 koiraa, joista kaikki on saksanpystykorvia.</p>
