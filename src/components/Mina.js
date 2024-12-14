@@ -9,7 +9,7 @@ function Mina() {
         <div>
         <br></br>
         <Container>
-            <Grid container spacing={4}>
+            <Grid container spacing={3}>
                 <Grid item xs={4} data-testid="grid-item">
                     <div><img id='kuva' src={kuva} alt='Omakuva' height={'auto'} width={'100%'} /></div>
                 </Grid>

@@ -25,9 +25,34 @@ function Menu() {
     return(
         <>
         <nav>
-            <NavLink to="/" end>Koti</NavLink>{" "}
-            <NavLink to="/mina">Minä</NavLink>{" "}
-            <NavLink to="/hinnasto">Hinnasto</NavLink>{" "}
+            <NavLink 
+                to="/"
+                style={({ isActive }) => {
+                    return isActive ? { color: '#8ca781' } : {};
+                }}
+            >
+                Koti
+            </NavLink>{" "}
+
+
+            <NavLink
+                to="/mina"
+                style={({ isActive }) => {
+                    return isActive ? { color: '#8ca781' } : {};
+                }}
+            >
+                Minä
+            </NavLink>{" "}
+
+            <NavLink 
+                to="/hinnasto"
+                style={({ isActive }) => {
+                    return isActive ? { color: '#8ca781' } : {};
+                }}
+            >
+                Hinnasto
+            </NavLink>{" "}
+            
             <a href="https://www.varaaheti.fi/lansituulenkoirahoitopalvelut/fi/lansituulen_koirahoitopalvelut/services" target="_blank" rel="noopener noreferrer">Ajanvaraus</a>
         </nav>
 

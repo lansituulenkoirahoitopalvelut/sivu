@@ -6,6 +6,10 @@
   color: black;
 }
 
+a:active {
+  color: #8ca781;
+}
+
 body {
   background-color:  #fffdf9;
 }
