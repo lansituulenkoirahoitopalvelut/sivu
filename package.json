@@ -1,7 +1,7 @@
 {
   "name": "evin-sivu",
   "version": "0.1.0",
-  "homepage": "https://lansituulenkoirahoitopalvelut.github.io/lansituuli-site",
+  "homepage": "https://lansituulenkoirahoitopalvelut.github.io/sivu",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
