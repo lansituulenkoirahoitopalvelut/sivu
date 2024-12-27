@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/sivu/static/css/main.388ca976.css",
-    "main.js": "/sivu/static/js/main.f2f6bd14.js",
+    "main.js": "/sivu/static/js/main.8543f30f.js",
     "static/js/453.14f668cf.chunk.js": "/sivu/static/js/453.14f668cf.chunk.js",
     "static/media/omakuva.png": "/sivu/static/media/omakuva.c4694be0b0abf5098873.png",
     "static/media/tokakuva.jpg": "/sivu/static/media/tokakuva.93bf46b28edbba11e51f.jpg",
     "static/media/logo.png": "/sivu/static/media/logo.3f02c48d31ecfa59ff40.png",
     "index.html": "/sivu/index.html",
     "main.388ca976.css.map": "/sivu/static/css/main.388ca976.css.map",
-    "main.f2f6bd14.js.map": "/sivu/static/js/main.f2f6bd14.js.map",
+    "main.8543f30f.js.map": "/sivu/static/js/main.8543f30f.js.map",
     "453.14f668cf.chunk.js.map": "/sivu/static/js/453.14f668cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.388ca976.css",
-    "static/js/main.f2f6bd14.js"
+    "static/js/main.8543f30f.js"
   ]
 }
