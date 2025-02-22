@@ -53,8 +53,7 @@ function Menu() {
                 Hinnasto
             </NavLink>{" "}
             
-            <a href="https://www.varaaheti.fi/lansituulenkoirahoitopalvelut/fi/lansituulen_koirahoitopalvelut/services" target="_blank" rel="noopener noreferrer">Ajanvaraus</a>
-        </nav>
+            </nav>
 
         <Routes>
             <Route path="/" element={<Home />} />
